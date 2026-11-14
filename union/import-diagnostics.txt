@@ -1,0 +1,28 @@
+Run: 43602929227
+Result: success
+Downloaded bytes: 2061844
+File type: Zip archive data, made by v2.0 UNIX, extract using at least v2.0, last modified Sep 04 2026 18:09:02, uncompressed size 0, method=store
+ZIP signature:  50 4b 03 04
+ZIP test:
+    testing: Running The Union #32 Minnesota Ave.gpx   OK
+    testing: Running The Union #42 Washington Ave.gpx   OK
+    testing: Running The Union #47 New Mexico Ave.gpx   OK
+    testing: Running The Union #20 Mississippi Ave.gpx   OK
+    testing: Running The Union #39 North Dakota Ave.gpx   OK
+    testing: Running The Union #40 South Dakota Ave.gpx   OK
+    testing: Running The Union #35 West Virginia Ave.gpx   OK
+No errors detected in compressed data of routes.zip.
+Classifier log:
+CLASSIFY #44 Wyoming Ave: 17 points
+  DONE: 16 named-road edges, 0 connector edges
+CLASSIFY #45 Utah Ave: 19 points
+  DONE: 18 named-road edges, 0 connector edges
+CLASSIFY #46 Oklahoma Ave: 17 points
+  DONE: 16 named-road edges, 0 connector edges
+CLASSIFY #47 New Mexico Ave: 18 points
+  DONE: 17 named-road edges, 0 connector edges
+CLASSIFY #48 Arizona Ave: 32 points
+  DONE: 31 named-road edges, 0 connector edges
+CLASSIFY #50 Hawaii Ave: 27 points
+  DONE: 26 named-road edges, 0 connector edges
+FAILED: []

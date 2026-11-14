@@ -1,0 +1,13 @@
+CLASSIFY #44 Wyoming Ave: 17 points
+  DONE: 16 named-road edges, 0 connector edges
+CLASSIFY #45 Utah Ave: 19 points
+  DONE: 18 named-road edges, 0 connector edges
+CLASSIFY #46 Oklahoma Ave: 17 points
+  DONE: 16 named-road edges, 0 connector edges
+CLASSIFY #47 New Mexico Ave: 18 points
+  DONE: 17 named-road edges, 0 connector edges
+CLASSIFY #48 Arizona Ave: 32 points
+  DONE: 31 named-road edges, 0 connector edges
+CLASSIFY #50 Hawaii Ave: 27 points
+  DONE: 26 named-road edges, 0 connector edges
+FAILED: []
